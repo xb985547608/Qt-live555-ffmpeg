@@ -1,0 +1,6 @@
+moc
+obj
+object_scr*
+Makefile*
+*.mp4
+*.mp3
