@@ -1,0 +1,8 @@
+moc
+obj
+debug
+release
+*.mp3
+*.mp4
+Makefile*
+object_script*
